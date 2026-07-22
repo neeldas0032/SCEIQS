@@ -1,0 +1,666 @@
+state,district,population
+1,jammu & kashmir,12541302
+1,kupwara,870354
+1,badgam,753745
+1,leh(ladakh),133487
+1,kargil,140802
+1,punch,476835
+1,rajouri,642415
+1,kathua,616435
+1,baramula,1008039
+1,bandipore,392232
+1,srinagar,1236829
+1,ganderbal,297446
+1,pulwama,560440
+1,shupiyan,266215
+1,anantnag,1078692
+1,kulgam,424483
+1,doda,409936
+1,ramban,283713
+1,kishtwar,230696
+1,udhampur,554985
+1,reasi,314667
+1,jammu,1529958
+1,samba,318898
+2,himachal pradesh,6864602
+2,chamba,519080
+2,kangra,1510075
+2,lahul & spiti,31564
+2,kullu,437903
+2,mandi,999777
+2,hamirpur,454768
+2,una,521173
+2,bilaspur,381956
+2,solan,580320
+2,sirmaur,529855
+2,shimla,814010
+2,kinnaur,84121
+3,punjab,27743338
+3,gurdaspur,2298323
+3,kapurthala,815168
+3,jalandhar,2193590
+3,hoshiarpur,1586625
+3,shahid bhagat singh nagar,612310
+3,fatehgarh sahib,600163
+3,ludhiana,3498739
+3,moga,995746
+3,firozpur,2029074
+3,muktsar,901896
+3,faridkot,617508
+3,bathinda,1388525
+3,mansa,769751
+3,patiala,1895686
+3,amritsar,2490656
+3,tarn taran,1119627
+3,rupnagar,684627
+3,sahibzada ajit singh nagar,994628
+3,sangrur,1655169
+3,barnala,595527
+4,chandigarh,1055450
+5,uttarakhand,10086292
+5,uttarkashi,330086
+5,chamoli,391605
+5,rudraprayag,242285
+5,tehri garhwal,618931
+5,dehradun,1696694
+5,garhwal,687271
+5,pithoragarh,483439
+5,bageshwar,259898
+5,almora,622506
+5,champawat,259648
+5,nainital,954605
+5,udham singh nagar,1648902
+5,hardwar,1890422
+6,haryana,25351462
+6,panchkula,561293
+6,ambala,1128350
+6,yamunanagar,1214205
+6,kurukshetra,964655
+6,kaithal,1074304
+6,karnal,1505324
+6,panipat,1205437
+6,sonipat,1450001
+6,jind,1334152
+6,fatehabad,942011
+6,sirsa,1295189
+6,hisar,1743931
+6,bhiwani,1634445
+6,rohtak,1061204
+6,jhajjar,958405
+6,mahendragarh,922088
+6,rewari,900332
+6,gurgaon,1514432
+6,mewat,1089263
+6,faridabad,1809733
+6,palwal,1042708
+7,nct of delhi,16787941
+7,north west,3656539
+7,north,887978
+7,north east,2241624
+7,east,1709346
+7,new delhi,142004
+7,central,582320
+7,west,2543243
+7,south west,2292958
+7,south,2731929
+8,rajasthan,68548437
+8,ganganagar,1969168
+8,hanumangarh,1774692
+8,bikaner,2363937
+8,churu,2039547
+8,jhunjhunun,2137045
+8,alwar,3674179
+8,bharatpur,2548462
+8,dhaulpur,1206516
+8,karauli,1458248
+8,sawai madhopur,1335551
+8,dausa,1634409
+8,jaipur,6626178
+8,sikar,2677333
+8,nagaur,3307743
+8,jodhpur,3687165
+8,jaisalmer,669919
+8,barmer,2603751
+8,jalor,1828730
+8,sirohi,1036346
+8,pali,2037573
+8,ajmer,2583052
+8,tonk,1421326
+8,bundi,1110906
+8,bhilwara,2408523
+8,rajsamand,1156597
+8,dungarpur,1388552
+8,banswara,1797485
+8,chittaurgarh,1544338
+8,kota,1951014
+8,baran,1222755
+8,jhalawar,1411129
+8,udaipur,3068420
+8,pratapgarh,867848
+9,uttar pradesh,199812341
+9,saharanpur,3466382
+9,muzaffarnagar,4143512
+9,bijnor,3682713
+9,moradabad,4772006
+9,rampur,2335819
+9,jyotiba phule nagar,1840221
+9,meerut,3443689
+9,baghpat,1303048
+9,ghaziabad,4681645
+9,gautam buddha nagar,1648115
+9,bulandshahr,3499171
+9,aligarh,3673889
+9,mahamaya nagar,1564708
+9,mathura,2547184
+9,agra,4418797
+9,firozabad,2498156
+9,mainpuri,1868529
+9,budaun,3681896
+9,bareilly,4448359
+9,pilibhit,2031007
+9,shahjahanpur,3006538
+9,kheri,4021243
+9,sitapur,4483992
+9,hardoi,4092845
+9,unnao,3108367
+9,lucknow,4589838
+9,rae bareli,3405559
+9,farrukhabad,1885204
+9,kannauj,1656616
+9,etawah,1581810
+9,auraiya,1379545
+9,kanpur dehat,1796184
+9,kanpur nagar,4581268
+9,jalaun,1689974
+9,jhansi,1998603
+9,lalitpur,1221592
+9,mahoba,875958
+9,banda,1799410
+9,chitrakoot,991730
+9,fatehpur,2632733
+9,kaushambi,1599596
+9,allahabad,5954391
+9,bara banki,3260699
+9,faizabad,2470996
+9,ambedkar nagar,2397888
+9,sultanpur,3797117
+9,bahraich,3487731
+9,shrawasti,1117361
+9,balrampur,2148665
+9,gonda,3433919
+9,siddharthnagar,2559297
+9,basti,2464464
+9,sant kabir nagar,1715183
+9,mahrajganj,2684703
+9,gorakhpur,4440895
+9,kushinagar,3564544
+9,deoria,3100946
+9,azamgarh,4613913
+9,mau,2205968
+9,ballia,3239774
+9,jaunpur,4494204
+9,ghazipur,3620268
+9,chandauli,1952756
+9,varanasi,3676841
+9,sant ravidas nagar (bhadohi),1578213
+9,mirzapur,2496970
+9,sonbhadra,1862559
+9,etah,1774480
+9,kanshiram nagar,1436719
+10,bihar,104099452
+10,pashchim champaran,3935042
+10,purba champaran,5099371
+10,sheohar,656246
+10,sitamarhi,3423574
+10,madhubani,4487379
+10,supaul,2229076
+10,araria,2811569
+10,kishanganj,1690400
+10,purnia,3264619
+10,katihar,3071029
+10,madhepura,2001762
+10,saharsa,1900661
+10,darbhanga,3937385
+10,muzaffarpur,4801062
+10,gopalganj,2562012
+10,siwan,3330464
+10,saran,3951862
+10,vaishali,3495021
+10,samastipur,4261566
+10,begusarai,2970541
+10,khagaria,1666886
+10,bhagalpur,3037766
+10,banka,2034763
+10,munger,1367765
+10,lakhisarai,1000912
+10,sheikhpura,636342
+10,nalanda,2877653
+10,patna,5838465
+10,bhojpur,2728407
+10,buxar,1706352
+10,kaimur (bhabua),1626384
+10,rohtas,2959918
+10,aurangabad,2540073
+10,gaya,4391418
+10,nawada,2219146
+10,jamui,1760405
+10,jehanabad,1125313
+10,arwal,700843
+11,sikkim,610577
+11,north  district,43709
+11,west district,136435
+11,south district,146850
+11,east district,283583
+12,arunachal pradesh,1383727
+12,tawang,49977
+12,west kameng,83947
+12,east kameng,78690
+12,papum pare,176573
+12,upper subansiri,83448
+12,west siang,112274
+12,east siang,99214
+12,upper siang,35320
+12,changlang,148226
+12,tirap,111975
+12,lower subansiri,83030
+12,kurung kumey,92076
+12,dibang valley,8004
+12,lower dibang valley,54080
+12,lohit,145726
+12,anjaw,21167
+13,nagaland,1978502
+13,mon,250260
+13,mokokchung,194622
+13,zunheboto,140757
+13,wokha,166343
+13,dimapur,378811
+13,phek,163418
+13,tuensang,196596
+13,longleng,50484
+13,kiphire,74004
+13,kohima,267988
+13,peren,95219
+14,manipur,2855794
+14,senapati,479148
+14,tamenglong,140651
+14,churachandpur,274143
+14,bishnupur,237399
+14,thoubal,422168
+14,imphal west,517992
+14,imphal east,456113
+14,ukhrul,183998
+14,chandel,144182
+15,mizoram,1097206
+15,mamit,86364
+15,kolasib,83955
+15,aizawl,400309
+15,champhai,125745
+15,serchhip,64937
+15,lunglei,161428
+15,lawngtlai,117894
+15,saiha,56574
+16,tripura,3673917
+16,west tripura,1725739
+16,south tripura,876001
+16,dhalai,378230
+16,north tripura,693947
+17,meghalaya,2966889
+17,west garo hills,643291
+17,east garo hills,317917
+17,south garo hills,142334
+17,west khasi hills,383461
+17,ribhoi,258840
+17,east khasi hills,825922
+17,jaintia hills,395124
+18,assam,31205576
+18,kokrajhar,887142
+18,dhubri,1949258
+18,goalpara,1008183
+18,barpeta,1693622
+18,morigaon,957423
+18,nagaon,2823768
+18,sonitpur,1924110
+18,lakhimpur,1042137
+18,dhemaji,686133
+18,tinsukia,1327929
+18,dibrugarh,1326335
+18,sivasagar,1151050
+18,jorhat,1092256
+18,golaghat,1066888
+18,karbi anglong,956313
+18,dima hasao,214102
+18,cachar,1736617
+18,karimganj,1228686
+18,hailakandi,659296
+18,bongaigaon,738804
+18,chirang,482162
+18,kamrup,1517542
+18,kamrup metropolitan,1253938
+18,nalbari,771639
+18,baksa,950075
+18,darrang,928500
+18,udalguri,831668
+19,west bengal,91276115
+19,darjiling,1846823
+19,jalpaiguri,3872846
+19,koch bihar,2819086
+19,uttar dinajpur,3007134
+19,dakshin dinajpur,1676276
+19,maldah,3988845
+19,murshidabad,7103807
+19,birbhum,3502404
+19,barddhaman,7717563
+19,nadia,5167600
+19,north twenty four parganas,10009781
+19,hugli,5519145
+19,bankura,3596674
+19,puruliya,2930115
+19,haora,4850029
+19,kolkata,4496694
+19,south twenty four parganas,8161961
+19,paschim medinipur,5913457
+19,purba medinipur,5095875
+20,jharkhand,32988134
+20,garhwa,1322784
+20,chatra,1042886
+20,kodarma,716259
+20,giridih,2445474
+20,deoghar,1492073
+20,godda,1313551
+20,sahibganj,1150567
+20,pakur,900422
+20,dhanbad,2684487
+20,bokaro,2062330
+20,lohardaga,461790
+20,purbi singhbhum,2293919
+20,palamu,1939869
+20,latehar,726978
+20,hazaribagh,1734495
+20,ramgarh,949443
+20,dumka,1321442
+20,jamtara,791042
+20,ranchi,2914253
+20,khunti,531885
+20,gumla,1025213
+20,simdega,599578
+20,pashchimi singhbhum,1502338
+20,saraikela-kharsawan,1065056
+21,odisha,41974218
+21,bargarh,1481255
+21,jharsuguda,579505
+21,sambalpur,1041099
+21,debagarh,312520
+21,sundargarh,2093437
+21,kendujhar,1801733
+21,mayurbhanj,2519738
+21,baleshwar,2320529
+21,bhadrak,1506337
+21,kendrapara,1440361
+21,jagatsinghapur,1136971
+21,cuttack,2624470
+21,jajapur,1827192
+21,dhenkanal,1192811
+21,anugul,1273821
+21,nayagarh,962789
+21,khordha,2251673
+21,puri,1698730
+21,ganjam,3529031
+21,gajapati,577817
+21,kandhamal,733110
+21,baudh,441162
+21,subarnapur,610183
+21,balangir,1648997
+21,nuapada,610382
+21,kalahandi,1576869
+21,rayagada,967911
+21,nabarangapur,1220946
+21,koraput,1379647
+21,malkangiri,613192
+22,chhattisgarh,25545198
+22,koriya,658917
+22,surguja,2359886
+22,jashpur,851669
+22,raigarh,1493984
+22,korba,1206640
+22,janjgir - champa,1619707
+22,kabeerdham,822526
+22,rajnandgaon,1537133
+22,durg,3343872
+22,raipur,4063872
+22,mahasamund,1032754
+22,dhamtari,799781
+22,uttar bastar kanker,748941
+22,bastar,1413199
+22,narayanpur,139820
+22,dakshin bastar dantewada,533638
+22,bijapur,255230
+23,madhya pradesh,72626809
+23,sheopur,687861
+23,morena,1965970
+23,bhind,1703005
+23,gwalior,2032036
+23,datia,786754
+23,shivpuri,1726050
+23,tikamgarh,1445166
+23,chhatarpur,1762375
+23,panna,1016520
+23,sagar,2378458
+23,damoh,1264219
+23,satna,2228935
+23,rewa,2365106
+23,umaria,644758
+23,neemuch,826067
+23,mandsaur,1340411
+23,ratlam,1455069
+23,ujjain,1986864
+23,shajapur,1512681
+23,dewas,1563715
+23,dhar,2185793
+23,indore,3276697
+23,khargone (west nimar),1873046
+23,barwani,1385881
+23,rajgarh,1545814
+23,vidisha,1458875
+23,bhopal,2371061
+23,sehore,1311332
+23,raisen,1331597
+23,betul,1575362
+23,harda,570465
+23,hoshangabad,1241350
+23,katni,1292042
+23,jabalpur,2463289
+23,narsimhapur,1091854
+23,dindori,704524
+23,mandla,1054905
+23,chhindwara,2090922
+23,seoni,1379131
+23,balaghat,1701698
+23,guna,1241519
+23,ashoknagar,845071
+23,shahdol,1066063
+23,anuppur,749237
+23,sidhi,1127033
+23,singrauli,1178273
+23,jhabua,1025048
+23,alirajpur,728999
+23,khandwa (east nimar),1310061
+23,burhanpur,757847
+24,gujarat,60439692
+24,kachchh,2092371
+24,banas kantha,3120506
+24,patan,1343734
+24,mahesana,2035064
+24,sabar kantha,2428589
+24,gandhinagar,1391753
+24,ahmadabad,7214225
+24,surendranagar,1756268
+24,rajkot,3804558
+24,jamnagar,2160119
+24,porbandar,585449
+24,junagadh,2743082
+24,amreli,1514190
+24,bhavnagar,2880365
+24,anand,2092745
+24,kheda,2299885
+24,panch mahals,2390776
+24,dohad,2127086
+24,vadodara,4165626
+24,narmada,590297
+24,bharuch,1551019
+24,the dangs,228291
+24,navsari,1329672
+24,valsad,1705678
+24,surat,6081322
+24,tapi,807022
+25,daman & diu,243247
+25,diu,52074
+25,daman,191173
+26,dadra & nagar haveli,343709
+27,maharashtra,112374333
+27,nandurbar,1648295
+27,dhule,2050862
+27,jalgaon,4229917
+27,buldana,2586258
+27,akola,1813906
+27,washim,1197160
+27,amravati,2888445
+27,wardha,1300774
+27,nagpur,4653570
+27,bhandara,1200334
+27,gondiya,1322507
+27,gadchiroli,1072942
+27,chandrapur,2204307
+27,yavatmal,2772348
+27,nanded,3361292
+27,hingoli,1177345
+27,parbhani,1836086
+27,jalna,1959046
+27,nashik,6107187
+27,thane,11060148
+27,mumbai suburban,9356962
+27,mumbai,3085411
+27,pune,9429408
+27,ahmadnagar,4543159
+27,bid,2585049
+27,latur,2454196
+27,osmanabad,1657576
+27,solapur,4317756
+27,satara,3003741
+27,ratnagiri,1615069
+27,sindhudurg,849651
+27,kolhapur,3876001
+27,sangli,2822143
+28,andhra pradesh,84580777
+28,adilabad,2741239
+28,nizamabad,2551335
+28,karimnagar,3776269
+28,medak,3033288
+28,hyderabad,3943323
+28,rangareddy,5296741
+28,mahbubnagar,4053028
+28,nalgonda,3488809
+28,warangal,3512576
+28,khammam,2797370
+28,srikakulam,2703114
+28,vizianagaram,2344474
+28,visakhapatnam,4290589
+28,east godavari,5154296
+28,west godavari,3936966
+28,krishna,4517398
+28,guntur,4887813
+28,prakasam,3397448
+28,sri potti sriramulu nellore,2963557
+28,y.s.r.,2882469
+28,kurnool,4053463
+28,anantapur,4081148
+28,chittoor,4174064
+29,karnataka,61095297
+29,belgaum,4779661
+29,bagalkot,1889752
+29,bidar,1703300
+29,raichur,1928812
+29,koppal,1389920
+29,gadag,1064570
+29,dharwad,1847023
+29,uttara kannada,1437169
+29,haveri,1597668
+29,bellary,2452595
+29,chitradurga,1659456
+29,davanagere,1945497
+29,shimoga,1752753
+29,udupi,1177361
+29,chikmagalur,1137961
+29,tumkur,2678980
+29,bangalore,9621551
+29,mandya,1805769
+29,hassan,1776421
+29,dakshina kannada,2089649
+29,kodagu,554519
+29,mysore,3001127
+29,chamarajanagar,1020791
+29,gulbarga,2566326
+29,yadgir,1174271
+29,kolar,1536401
+29,chikkaballapura,1255104
+29,bangalore rural,990923
+29,ramanagara,1082636
+30,goa,1458545
+30,north goa,818008
+30,south goa,640537
+31,lakshadweep,64473
+32,kerala,33406061
+32,kasaragod,1307375
+32,kannur,2523003
+32,wayanad,817420
+32,kozhikode,3086293
+32,malappuram,4112920
+32,palakkad,2809934
+32,thrissur,3121200
+32,ernakulam,3282388
+32,idukki,1108974
+32,kottayam,1974551
+32,alappuzha,2127789
+32,pathanamthitta,1197412
+32,kollam,2635375
+32,thiruvananthapuram,3301427
+33,tamil nadu,72147030
+33,thiruvallur,3728104
+33,chennai,4646732
+33,kancheepuram,3998252
+33,vellore,3936331
+33,tiruvannamalai,2464875
+33,viluppuram,3458873
+33,salem,3482056
+33,namakkal,1726601
+33,erode,2251744
+33,the nilgiris,735394
+33,dindigul,2159775
+33,karur,1064493
+33,tiruchirappalli,2722290
+33,perambalur,565223
+33,ariyalur,754894
+33,cuddalore,2605914
+33,nagapattinam,1616450
+33,thiruvarur,1264277
+33,thanjavur,2405890
+33,pudukkottai,1618345
+33,sivaganga,1339101
+33,madurai,3038252
+33,theni,1245899
+33,virudhunagar,1942288
+33,ramanathapuram,1353445
+33,thoothukkudi,1750176
+33,tirunelveli,3077233
+33,kanniyakumari,1870374
+33,dharmapuri,1506843
+33,krishnagiri,1879809
+33,coimbatore,3458045
+33,tiruppur,2479052
+34,puducherry,1247953
+34,yanam,55626
+34,mahe,41816
+34,karaikal,200222
+35,andaman & nicobar islands,380581
+35,nicobars,36842
+35,north  & middle andaman,105597
+35,south andaman,238142
